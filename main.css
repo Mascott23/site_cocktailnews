@@ -8,12 +8,12 @@ header,
 section h2,
 section h3,
 form button {
-    font-family: "Bungee", sans-serif;
+    font-family: "Jost", sans-serif;
     font-weight: normal;
 }
 
 body, input, textarea {
-    font-family: "Roboto", sans-serif;
+    font-family: "Jost", sans-serif;
 }
 
 header {
